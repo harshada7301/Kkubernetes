@@ -1,4 +1,4 @@
-# Kkubernetes
+# Kubernetes
 
 ## What Is Kubernetes ?
   - Kubernetes is an open-source Container Management tool that automates container deployment, container scaling, descaling, and container load balancing (also called a container orchestration tool).
